@@ -1,0 +1,8 @@
+1. Instalar o flutter sdk;
+2. Definir o flutter/bin como variavel de ambiente de usuario;
+3. Apontar o caminho do flutter dentro do vscode (Configurações > Paleta de Comandos);
+3. Selecionar a opção de debugar o Codigo + Pacotes + SDK;
+4. Executar e Depurar o arquivo main.dart com o Chrome (web-javascript).
+
+Caso ocorra algum erro, executar o comando "dart fix --dry-run" e depois "dart fix --apply" no terminal.
+
