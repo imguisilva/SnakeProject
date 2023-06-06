@@ -4,9 +4,9 @@ Em sumo, o projeto que, desenvolvido em Dart, remete a nostálgia dos Nokias ant
 
 <img src="https://i.imgur.com/eIwYwmF.png" width="300" height="350"/>
 
-###Projeto solicitado pelo Professor:
+### Projeto solicitado pelo Professor:
 - Sergio Joao Guimaraes Da Silva
-###Desenvolvido por:
+### Desenvolvido por:
 - Gustavo Nobrega
 - Guilherme Pereira
 - Cecilia Albino
