@@ -10,3 +10,5 @@ Em sumo, o projeto que, desenvolvido em Dart, remete a nostálgia dos Nokias ant
 - Gustavo Nobrega
 - Guilherme Pereira
 - Cecilia Albino
+
+### 👨🏼‍💻 Desenvolvido em Dart.
